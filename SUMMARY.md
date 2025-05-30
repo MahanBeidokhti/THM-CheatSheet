@@ -7,6 +7,8 @@
 * [Linux](cheat-sheet/linux.md)
 * [Windows](cheat-sheet/windows/README.md)
   * [User Management](cheat-sheet/windows/user-management.md)
+* [NMAP](cheat-sheet/nmap.md)
+* [Gobuster](cheat-sheet/gobuster.md)
 * [MetaSploit](cheat-sheet/metasploit/README.md)
   * [msvenom](cheat-sheet/metasploit/msvenom/README.md)
     * [Payload](cheat-sheet/metasploit/msvenom/payload.md)
